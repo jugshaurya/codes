@@ -1,2 +1,2 @@
 # codes
-learning DS and ALGO in c++
+Learning Period DS and ALGO in c++
